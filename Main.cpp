@@ -4,10 +4,11 @@
 #include "TanquePlayer1.h"
 #include "TanqueRapido.h"
 #include "Disparo.h"
+///HOLA
 
 int main()
 {
-    // Inicializar la semilla para generar números aleatorios
+    // Inicializar la semilla para generar nÃºmeros aleatorios
     std::srand(static_cast<unsigned>(std::time(0)));
 
     // Crear la ventana del juego
